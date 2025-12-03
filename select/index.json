@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "【LIVE映像】unravel  日本武道館 2023.8.30【Ado】",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-03T08:43:24.014964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/01_Unravel_Björk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "Björk & Brodsky Quartet",
+      "has_synced": false,
+      "path": "select/02_Unravel_Björk_&_Brodsky_Quartet.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/03_Unravel_Björk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/04_Unravel_Björk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "KiloWatts & Vanek",
+      "has_synced": true,
+      "path": "select/05_Unravel_KiloWatts_&_Vanek.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "unravel",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/06_unravel_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "unravel",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/07_unravel_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/08_Unravel_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/09_Unravel_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/10_Unravel_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/11_Unravel_Björk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "Bjork",
+      "has_synced": true,
+      "path": "select/12_Unravel_Bjork.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "Bjork",
+      "has_synced": true,
+      "path": "select/13_Unravel_Bjork.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "unravel",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/14_unravel_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "Lissie",
+      "has_synced": true,
+      "path": "select/15_Unravel_Lissie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Unravel",
+      "artist": "Toru Kitajima feat. OmegaVibe",
+      "has_synced": false,
+      "path": "select/16_Unravel_Toru_Kitajima_feat._OmegaVibe.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Unravel (Pocket mix)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/17_Unravel_(Pocket_mix)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "unravel (acoustic version)",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/18_unravel_(acoustic_version)_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Unravel (Acoustic Version)",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/19_Unravel_(Acoustic_Version)_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "unravel",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_unravel_Ado.txt"
+    }
+  ]
+}
